@@ -8,7 +8,7 @@ import io
 # 1. CONFIGURAÇÃO DA PÁGINA E INTERFACE VISUAL
 st.set_page_config(page_title="Bot de Levantamento de Tachas", layout="wide", page_icon="🛣️")
 
-st.title("🛣️ Bot de Levantamento de Tachas")
+st.title("🛣️ Bot - Tachas refletivas (Conserva)")
 st.markdown("Cole o texto do WhatsApp ou anexe imagens (prints) para extrair os dados.")
 
 # Interface de Entrada
