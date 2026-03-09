@@ -3,5 +3,3 @@ pandas
 pytesseract
 Pillow
 openpyxl
-tesseract-ocr
-tesseract-ocr-por
